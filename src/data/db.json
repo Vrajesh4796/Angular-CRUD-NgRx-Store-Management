@@ -1,0 +1,14 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "john@gmail.com",
+      "phone": "9685415263",
+      "address": "43, Shyam Street",
+      "type": "supplier",
+      "associategroup": "level2",
+      "status": true
+    }
+  ]
+}
